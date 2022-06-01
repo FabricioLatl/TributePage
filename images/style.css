@@ -38,3 +38,16 @@ body{
 li{
     margin: 3%;
 }
+
+#second-paragraph{
+    margin: 3%;
+    font-style: italic;
+}
+
+#tribute-link{
+    padding-left: 15%;
+    padding-right: 15%;
+    font-weight: bolder;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
